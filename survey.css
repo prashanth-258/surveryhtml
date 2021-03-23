@@ -1,0 +1,60 @@
+body {
+	background: rgb(106, 138, 255);
+}
+h1 {
+	color: white;
+	text-align: center;
+	margin: 100px 50px 0px 50px;
+	font-size: 2.5em;
+}
+
+#description {
+	color: white;
+	text-align: center;
+	margin: 5px 50px 0px 50px;
+	font-size: 1em;
+
+}
+
+.user-form {
+	display: block;
+	width: 50%;
+	margin: 30px auto 0px auto;
+	border-radius: 5px;
+    background-color: #262646;
+    padding: 20px;
+    color: #ffffff;
+
+
+}
+
+#survey-form {
+	display: block;
+
+}
+
+
+input[type=text], input[type=email],input[type=number], select, #w3review {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1 {
+	padding: 30px 24px;
+}
